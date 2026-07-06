@@ -1,4 +1,3 @@
-```md
 # Rafael
 
 ### Musician · System Architect · CAPM
@@ -27,15 +26,11 @@ Music is my primary form of expression.
 
 I'm interested in composition, jazz, folk, music theory, audio engineering, acoustics, critical listening, and the craft behind recording and sound reproduction.
 
----
-
 ### 💻 Software
 
 Professionally, I work as a System Architect, designing enterprise software and helping transform ideas into reliable systems.
 
 Here you'll find projects related to software architecture, engineering, automation, artificial intelligence, and technical documentation.
-
----
 
 ### 📋 Projects
 
@@ -84,11 +79,10 @@ If you'd like to explore the broader picture—including my artistic work—you'
 ## 🌐 Find me around the web
 
 🌍 **Website**  
-https://rafael.rs
+**https://rafael.rs**
 
 💼 **LinkedIn**  
-https://www.linkedin.com/in/rsdot/
+**https://www.linkedin.com/in/rsdot/**
 
 📷 **Instagram**  
-https://instagram.com/rsdotrafael
-```
+**https://instagram.com/rsdotrafael**
